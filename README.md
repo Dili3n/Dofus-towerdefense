@@ -13,7 +13,7 @@ commande : “clang -std=c17 main.c -Wall -o main.c -lMLV”
 Pour lancer le jeu en ASCII vous devez exécuter la commande : “./main -a”
 
 Une fois lancé, le menu apparaîtra, il vous sera demandé de choisir votre niveau, vous
-devrez donc entrez un chiffre de 1 à 5.
+devrez donc entrer un chiffre de 1 à 5.
 
 Vous aurez une prévisualisation de la vague de monstres puis il vous sera demandé de
 choisir les tourelles que vous voulez placer. Encore une fois vous devrez entrer un chiffre de
@@ -31,11 +31,11 @@ Vous devez compiler de la même manière que pour l’ASCII cependant pour lance
 vous devrez entrer la commande : “./main -g
 
 Une fois lancé le menu principal apparaîtra, de ce menu vous pourrez au choix, cliquer sur
-le bouton RÈGLE pour aller dans le menu des règles et voir les capacité des tourelles,
+le bouton RÈGLE pour aller dans le menu des règles et voir les capacités des tourelles,
 ou alors vous pouvez cliquer sur CREDIT pour voir le menu des crédits.
 
 La troisième possibilité, la plus importante, vous pouvez cliquer sur le bouton JOUER.
-Après avoir cliquer sur le bouton JOUER vous serez redirigés vers le menu de choix des
+Après avoir clique sur le bouton JOUER vous serez redirigés vers le menu de choix des
 niveaux, vous pourrez donc choisir un des 5 niveaux proposés.
 
 Une fois un niveau sélectionné vous serez redirigé vers l’interface de jeu.
