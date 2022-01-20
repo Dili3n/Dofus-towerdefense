@@ -26,7 +26,7 @@ Une fois placée votre tourelle vous pouvez en placer d’autre en fonction de v
 disponible (dans le jeu les “kamas”) ou alors entrez 7 pour débuter le jeu.
 
 2) En MLV (affichage graphique)
-3) 
+
 Vous devez compiler de la même manière que pour l’ASCII cependant pour lancer le jeu
 vous devrez entrer la commande : “./main -g
 
@@ -46,3 +46,6 @@ Pour placer des tourelles il vous suffit de cliquer sur les icônes des tourelle
 puis de les placer sur les cercles en cliquant dessus.
 Une fois toutes vos tourelles placées vous devez cliquer sur le bouton PLAY ce qui lancera
 le jeu.
+
+BIBLIOTHEQUE MLV : http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html
+
