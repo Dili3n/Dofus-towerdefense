@@ -1,5 +1,7 @@
 # towerdefense
 
+Jeu créé par Dilien Oeuvrard et @Lucas-Zaverio
+
 C’est un jeu à un seul joueur qui joue contre la machine (ou l’environnement). Durant chaque niveau, une somme de
 crédits est donnée au joueur qui devra acheter et mettre en place des tourelles qui devront arrêter une vague de vilains
 gros méchants souhaitant infester l’ordinateur central.
