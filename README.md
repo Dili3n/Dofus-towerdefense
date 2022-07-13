@@ -1,4 +1,4 @@
-# towerdefense
+# Dofus - towerdefense
 
 Jeu créé par Dilien Oeuvrard et @Lucas-Zaverio
 
